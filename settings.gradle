@@ -7,4 +7,5 @@ include 'adapter-example'
 include 'bridge-example'
 include 'composite-example'
 include 'decorator-example'
+include 'facade-example'
 
