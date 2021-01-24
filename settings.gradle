@@ -1,0 +1,6 @@
+rootProject.name = 'Patterns'
+include 'singleton-example'
+include 'prototype-example'
+include 'factory-example'
+include 'builder-example'
+
