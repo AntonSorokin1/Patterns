@@ -8,4 +8,5 @@ include 'bridge-example'
 include 'composite-example'
 include 'decorator-example'
 include 'facade-example'
+include 'flyweight-example'
 
