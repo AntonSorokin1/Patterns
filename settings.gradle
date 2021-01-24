@@ -5,4 +5,5 @@ include 'factory-example'
 include 'builder-example'
 include 'adapter-example'
 include 'bridge-example'
+include 'composite-example'
 
