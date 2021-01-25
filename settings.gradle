@@ -17,4 +17,5 @@ include 'iterator-example'
 include 'mediator-example'
 include 'memento-example'
 include 'state-example'
+include 'strategy-example'
 
