@@ -18,4 +18,5 @@ include 'mediator-example'
 include 'memento-example'
 include 'state-example'
 include 'strategy-example'
+include 'template-method-example'
 
