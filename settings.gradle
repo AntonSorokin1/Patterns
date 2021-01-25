@@ -13,4 +13,5 @@ include 'proxy-example'
 include 'command-example'
 include 'observer-example'
 include 'chain-of-responsibility-example'
+include 'iterator-example'
 
