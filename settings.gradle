@@ -15,4 +15,5 @@ include 'observer-example'
 include 'chain-of-responsibility-example'
 include 'iterator-example'
 include 'mediator-example'
+include 'memento-example'
 
